@@ -6,9 +6,12 @@ Set of recipes as given by my grandma.
 - sauces (TODO)
 - spnewenw (TODO)
 - so 1
+<<<<<<< HEAD
 - os 2
 -os 3
 -ososo
+<<<<<<< HEAD
 - sss
 - lai
+- os 2
 zheshism
