@@ -6,15 +6,9 @@ Set of recipes as given by my grandma.
 - sauces (TODO)
 - spnewenw (TODO)
 - so 1
-<<<<<<< HEAD
 - os 2
 -os 3
 -ososo
-<<<<<<< HEAD
 - sss
 - lai
-=======
-=======
-- os 2
->>>>>>> parent of 8ab2e53 (222)
->>>>>>> parent of b58a351 (q1)
+zheshism
