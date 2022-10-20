@@ -18,6 +18,10 @@ agian
 yue
 
 smartcat now
+<<<<<<< HEAD
 11
 22
 33
+=======
+11
+>>>>>>> parent of 0620fbb (q2)
